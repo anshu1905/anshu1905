@@ -5,6 +5,8 @@
 
 I am a Data Analytics and IoT enthusiast who takes keen interests in learning new technologies and working on real world projects. I like learning new languages,playing sports and travelling.
 
+<br>
+
 ## Skills 📈
 
 * Data Analytics        🌟 🌟 🌟 🌟
@@ -12,12 +14,15 @@ I am a Data Analytics and IoT enthusiast who takes keen interests in learning ne
 * Aviation              🌟 🌟 🌟 🌟
 * Web Development       🌟 🌟 🌟
 
+<br>
 
 ## Positions🎖️
 
 * ### Avionics and Propulsion Engineer at Team Assailing Falcons
 * ### Data Analyst at Reap Benefit
 * ### IoT and Data Analytics Enthusiast
+
+<br>
 
 ## Languages and Softwares 👨‍💻 🚀
 

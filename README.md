@@ -39,3 +39,19 @@ I am a Data Analytics and IoT enthusiast who takes keen interests in learning ne
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a> 
 
  </p>
+ 
+ <br>
+ 
+ ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshu1905&show_icons=true&theme=tokyonight)
+ 
+ <br>
+ 
+ ### Let's connect 🕸️
+ 
+ ```
+ https://www.linkedin.com/in/anshuman-phadke-6506aa1b5/
+ 
+ https://anshuman-phadke.medium.com/
+ 
+ ```
+ 

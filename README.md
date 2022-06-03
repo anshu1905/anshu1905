@@ -1,8 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Anshuman+Here!)](https://git.io/typing-svg)
 
-### Avionics and Propulsion Engineer at Team Assailing Falcons
-### Data Analyst at Reap Benefit
-### IoT and Data Analytics Enthusiast
+* ### Avionics and Propulsion Engineer at Team Assailing Falcons
+* ### Data Analyst at Reap Benefit
+* ### IoT and Data Analytics Enthusiast
 
 ## 🚀 Languages and Softwares:
 

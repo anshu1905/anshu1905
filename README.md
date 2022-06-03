@@ -19,7 +19,7 @@ I am a Data Analytics and IoT enthusiast who takes keen interests in learning ne
 * ### Data Analyst at Reap Benefit
 * ### IoT and Data Analytics Enthusiast
 
-## 🚀 Languages and Softwares 👨‍💻
+## Languages and Softwares 👨‍💻 🚀
 
 <p align="left"> 
     <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 

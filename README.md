@@ -30,7 +30,11 @@ https://anshuman-portfolio.netlify.app/
 * Avionics and Propulsion Engineer at Team Assailing Falcons (VIT Vellore)
 * Data Analyst at Reap Benefit
 * Co Secretary at IETE-ISF (VIT Vellore)
-* Member Secretary of Student Council at VIT Vellore 
+* Member Secretary of Student Council at VIT Vellore
+ 
+https://leetcode.com/Anshuman19/
+
+https://www.hackerrank.com/anshuman_phadke
 
 <br>
 

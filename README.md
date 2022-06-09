@@ -7,7 +7,7 @@ I am a Data Analytics and IoT enthusiast who takes keen interests in learning ne
 
 <br>
 
-## Portfolio
+## Portfolio 👨‍💼
 
 This is my portfolio please have a look!
 

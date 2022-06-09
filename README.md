@@ -54,10 +54,20 @@ https://anshuman-portfolio.netlify.app/
  
  ### Let's connect 🕸️
  
- ```
+ *Twitter*
+ https://twitter.com/AnshumanPhadke
+ 
+ <br>
+ *Instagram*
+ https://www.instagram.com/a_n_s_h_u_m_a_n19/
+ 
+ <br>
+ *LinkedIn*
  https://www.linkedin.com/in/anshuman-phadke-6506aa1b5/
  
+ <br>
+ *Medium*
  https://anshuman-phadke.medium.com/
  
- ```
+ 
  

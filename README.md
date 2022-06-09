@@ -1,13 +1,15 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+Anshuman+Here!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Anshuman+Phadke!)](https://git.io/typing-svg)
 
 
 ## About Me 😎
-
-I am a Data Analytics and IoT enthusiast who takes keen interests in learning new technologies and working on real world projects. I like learning new languages,playing sports and travelling.
+I am an Engineering Student pursuing my BTECH in Electronics and Communication Engineering from Vellore Institute of Technology,Vellore,India. 
+I am a Data Analytics and IoT enthusiast who takes keen interests in learning new technologies and working on real world projects. I also love building RC planes and drones. I like learning new languages,playing sports,listening to music, and travelling.
 
 <br>
 
 ## Portfolio
+
+This is my portfolio please have a look!
 
 https://anshuman-portfolio.netlify.app/
 
@@ -19,14 +21,16 @@ https://anshuman-portfolio.netlify.app/
 * IoT                   🌟 🌟 🌟 🌟 
 * Aviation              🌟 🌟 🌟 🌟
 * Web Development       🌟 🌟 🌟
+* Coding                🌟 🌟 🌟
 
 <br>
 
 ## Positions🎖️
 
-* ### Avionics and Propulsion Engineer at Team Assailing Falcons
+* ### Avionics and Propulsion Engineer at Team Assailing Falcons (VIT Vellore)
 * ### Data Analyst at Reap Benefit
-* ### IoT and Data Analytics Enthusiast
+* ### Co Secretary at IETE-ISF (VIT Vellore)
+* ### Member Secretary of Student Council at VIT Vellore 
 
 <br>
 
@@ -52,22 +56,24 @@ https://anshuman-portfolio.netlify.app/
  
  <br>
  
- ### Let's connect 🕸️
+ ## Let's connect 🕸️🤝
  
- *Twitter*
+ *Twitter:*
  https://twitter.com/AnshumanPhadke
  
  <br>
- *Instagram*
+ 
+ *Instagram:*
  https://www.instagram.com/a_n_s_h_u_m_a_n19/
  
  <br>
- *LinkedIn*
+ 
+ *LinkedIn:*
  https://www.linkedin.com/in/anshuman-phadke-6506aa1b5/
  
  <br>
- *Medium*
+ 
+ *Medium:*
  https://anshuman-phadke.medium.com/
  
- 
- 
+ I have written two blogs, please read them too!

@@ -27,7 +27,7 @@ https://anshuman-portfolio.netlify.app/
 
 ## Positions🎖️
 
-* Avionics and Propulsion Engineer at Team Assailing Falcons (VIT Vellore)
+* Vice Captain and Propulsion Head at Team Assailing Falcons (VIT Vellore)
 * Data Analyst at Reap Benefit
 * Co Secretary at IETE-ISF (VIT Vellore)
 * Member Secretary of Student Council at VIT Vellore

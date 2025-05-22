@@ -1,21 +1,19 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+I+am+Anshuman+Phadke)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Anshuman+Phadke+!)](https://git.io/typing-svg)
 
 ## About Me 😎
 As an enthusiast at the intersection of electronics, embedded systems, and machine learning, I am driven by a passion for building intelligent systems that bridge the gap between hardware and software. From a young age, I have been fascinated by how machines sense, interpret, and respond to the world around them. This curiosity has grown into a pursuit of innovative solutions that combine low-level hardware control with high-level intelligence. Whether it’s designing efficient embedded architectures or training models to make data-driven decisions, I believe true innovation lies in creating technologies that not only work but also adapt, learn, and evolve. My approach is rooted in hands-on experimentation, continuous learning, and the drive to turn complex ideas into impactful real-world applications. 
 
 <br>
-<br>
 
 ## Skills 📈
 
-* Hardare Engineering   🌟 🌟 🌟 🌟
+* Hardware Engineering  🌟 🌟 🌟 🌟
 * Embedded Systems      🌟 🌟 🌟 🌟
 * Internet of Things    🌟 🌟 🌟 🌟 
 * Machine Learning      🌟 🌟 🌟 🌟
 * Autonomous Driving    🌟 🌟 🌟 🌟
-* Robotics              🌟 🌟 🌟
-* Generative AI         🌟 🌟 🌟
+* Robotics              🌟 🌟 🌟 🌟
+* Generative AI         🌟 🌟 🌟 🌟
 
 <br>
 

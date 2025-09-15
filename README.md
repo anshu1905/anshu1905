@@ -5,24 +5,25 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 
 <br>
 
-## Skills 📈
+## Skills (Domains) 📈
 
-* Hardware Engineering  🌟 🌟 🌟 🌟
-* Embedded Systems      🌟 🌟 🌟 🌟
-* Internet of Things    🌟 🌟 🌟 🌟 
 * Machine Learning      🌟 🌟 🌟 🌟
-* Autonomous Driving    🌟 🌟 🌟 🌟
+* Autonomous Driving    🌟 🌟 🌟 🌟🌟
 * Robotics              🌟 🌟 🌟 🌟
-* Generative AI         🌟 🌟 🌟 🌟
+* Commputer Vision      🌟 🌟 🌟 🌟
+* Hardware Engineering  🌟 🌟 🌟 
+* Embedded Systems      🌟 🌟 🌟 🌟
+* Internet of Things    🌟 🌟 🌟 🌟
+* System Engineering    🌟 🌟 🌟 🌟🌟
 
 <br>
 
 ## Tech Stacks 👨‍💻
 
 <p align="left"> 
+    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>> 
     <a href="https://www.programiz.com/c-programming" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-programming.png"/> </a> 
     <a href="https://www.w3schools.com/CPP/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://www.arduino.cc/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/arduino.png"/></a> 
     <a href="https://powerbi.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/power-bi.png"/></a>

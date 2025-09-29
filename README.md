@@ -10,7 +10,7 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 * Machine Learning      🌟 🌟 🌟 🌟
 * Autonomous Driving    🌟 🌟 🌟 🌟🌟
 * Robotics              🌟 🌟 🌟 🌟
-* Commputer Vision      🌟 🌟 🌟 🌟
+* Computer Vision      🌟 🌟 🌟 🌟
 * Hardware Engineering  🌟 🌟 🌟 
 * Embedded Systems      🌟 🌟 🌟 🌟
 * Internet of Things    🌟 🌟 🌟 🌟

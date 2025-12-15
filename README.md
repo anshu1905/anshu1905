@@ -8,13 +8,12 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 ## Skills (Domains) 📈
 
 * Machine Learning      🌟 🌟 🌟 🌟
-* Autonomous Driving    🌟 🌟 🌟 🌟🌟
-* Robotics              🌟 🌟 🌟 🌟
-* Computer Vision      🌟 🌟 🌟 🌟
-* Hardware Engineering  🌟 🌟 🌟 
+* Deep Learning         🌟 🌟 🌟 🌟
+* Autonomous Driving    🌟 🌟 🌟 🌟
+* Computer Vision       🌟 🌟 🌟 🌟
+* Drone Technology      🌟 🌟 🌟 🌟
 * Embedded Systems      🌟 🌟 🌟 🌟
 * Internet of Things    🌟 🌟 🌟 🌟
-* System Engineering    🌟 🌟 🌟 🌟🌟
 
 <br>
 

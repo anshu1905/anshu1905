@@ -119,7 +119,7 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 
 <br>
 
-## 🌐 Online Presence
+## Online Presence 🌐
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Phadke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-phadke/)
 

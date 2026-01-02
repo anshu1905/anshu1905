@@ -115,12 +115,13 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
   <img src="https://img.icons8.com/color/48/drone.png"/>
 </a>
 
- </p>
+</p>
 
- <br>
- 
- ## GitHub Stats 📈
- 
- ![Anshuman's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshu1905&show_icons=true&theme=tokyonight)
- 
- <br>
+<br>
+
+## 🌐 Online Presence
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anshuman%20Phadke-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anshuman-phadke/)
+
+
+

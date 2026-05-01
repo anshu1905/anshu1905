@@ -7,6 +7,7 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 
 ## Skills (Domains) 📈
 
+* Generative AI         🌟 🌟 🌟 🌟
 * Machine Learning      🌟 🌟 🌟 🌟
 * Computer Vision       🌟 🌟 🌟 🌟
 * Deep Learning         🌟 🌟 🌟 🌟

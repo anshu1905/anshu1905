@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello,+I+am+Anshuman+Phadke+!)](https://git.io/typing-svg)
 
 ## About Me 😎
-As an enthusiast at the intersection of electronics, embedded systems, and machine learning, I am driven by a passion for building intelligent systems that bridge the gap between hardware and software. From a young age, I have been fascinated by how machines sense, interpret, and respond to the world around them. This curiosity has grown into a pursuit of innovative solutions that combine low-level hardware control with high-level intelligence. Whether it’s designing efficient embedded architectures or training models to make data-driven decisions, I believe true innovation lies in creating technologies that not only work but also adapt, learn, and evolve. My approach is rooted in hands-on experimentation, continuous learning, and the drive to turn complex ideas into impactful real-world applications. 
-
+I am an engineer interested in building intelligent systems that combine machine learning, data, and real-world decision making. My focus is on creating practical solutions that can learn from data, adapt to changing conditions, and perform reliably across domains such as autonomous systems, finance, and embedded applications. I enjoy turning complex ideas into useful products through hands-on experimentation, strong fundamentals, and continuous learning.
 <br>
 
 ## Skills (Domains) 📈
@@ -16,12 +15,17 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 * Multi-agent systems   🌟 🌟 🌟 🌟
 * Embedded Systems      🌟 🌟 🌟 🌟
 * Internet of Things    🌟 🌟 🌟 🌟
+* Mathematics           🌟 🌟 🌟 🌟
 
 <br>
 
 ## Tech Stacks 👨‍💻
 
 <p align="left"> 
+
+
+<p align="left">
+
 <!-- Python -->
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -72,7 +76,7 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
   <img src="https://img.icons8.com/color/48/css3.png"/>
 </a>
 
-<!-- PyTorch (FIXED – visible & reliable) -->
+<!-- PyTorch -->
 <a href="https://pytorch.org/" target="_blank">
   <img src="https://img.icons8.com/fluency/48/pytorch.png"/>
 </a>
@@ -97,7 +101,7 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
   <img src="https://img.icons8.com/color/48/dashboard-layout.png"/>
 </a>
 
-<!-- Flask (FIXED – monochrome but guaranteed to render) -->
+<!-- Flask -->
 <a href="https://flask.palletsprojects.com/" target="_blank">
   <img src="https://img.icons8.com/ios-filled/48/000000/flask.png"/>
 </a>
@@ -115,6 +119,58 @@ As an enthusiast at the intersection of electronics, embedded systems, and machi
 <!-- ArduPilot -->
 <a href="https://ardupilot.org/" target="_blank">
   <img src="https://img.icons8.com/color/48/drone.png"/>
+</a>
+
+<!-- NumPy -->
+<a href="https://numpy.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/numpy.png"/>
+</a>
+
+<!-- pandas -->
+<a href="https://pandas.pydata.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/pandas.png"/>
+</a>
+
+
+<!-- Scikit-learn -->
+<a href="https://scikit-learn.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48"/>
+</a>
+
+<!-- Jupyter -->
+<a href="https://jupyter.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48"/>
+</a>
+
+<!-- Hugging Face -->
+<a href="https://huggingface.co/" target="_blank">
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="48"/>
+</a>
+
+<!-- Keras -->
+<a href="https://keras.io/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48"/>
+</a>
+
+
+<!-- MLflow -->
+<a href="https://mlflow.org/" target="_blank">
+  <img src="https://img.icons8.com/color/48/workflow.png"/>
+</a>
+
+<!-- Docker -->
+<a href="https://www.docker.com/" target="_blank">
+  <img src="https://img.icons8.com/color/48/docker.png"/>
+</a>
+
+<!-- ONNX -->
+<a href="https://onnx.ai/" target="_blank">
+  <img src="https://img.icons8.com/color/48/connection-status-on.png"/>
+</a>
+
+<!-- XGBoost -->
+<a href="https://xgboost.readthedocs.io/" target="_blank">
+  <img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"/>
 </a>
 
 </p>
